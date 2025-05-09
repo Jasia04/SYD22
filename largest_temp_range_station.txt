@@ -1,0 +1,2 @@
+Largest temperature range: 21.07 °C
+Station(s): WAGGA-WAGGA-AMO
